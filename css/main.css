@@ -56,3 +56,21 @@ code {
 #wrap { 
 	padding-top: 60px;
 }
+
+/***************************
+IMAGE STYLING FOR CAROUSEL
+***************************/
+
+
+.carousel-inner .item img,
+.carousel-inner .item a img {
+  width: 75%;
+  margin: auto;
+}
+
+.right-carousel-control 
+.left-carousel-control {
+  width: 12.5%;
+}
+
+
